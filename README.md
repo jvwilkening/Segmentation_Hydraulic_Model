@@ -1,7 +1,10 @@
 # Segmentation_Hydraulic_Model
-Updated: July 2022
+Updated: August 2023
 
 This repository contains the code developed and used in the manuscript "Exploring within-plant hydraulic trait variation: A test of the Vulnerability Segmentation Hypothesis".
+
+Citation:
+Wilkening, J. V., Skelton, R. P., Feng, X., Dawson, T. E., & Thompson, S. E. (2023). Exploring within‐plant hydraulic trait variation: A test of the vulnerability segmentation hypothesis. Plant, Cell & Environment. https://doi.org/10.1111/pce.14649
 
 This code is run in Python 3.10, and the necessary accompanying packages and versions are listed in the requirements.txt file. 
 
